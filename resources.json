@@ -1,0 +1,20 @@
+{
+    "API": [
+        {
+            "name": "JSONPlaceholder",
+            "url": "https://jsonplaceholder.typicode.com/"
+        },
+        {
+            "name": "Fake Store API",
+            "url": "https://fakestoreapi.com/"
+        },
+        {
+            "name": "Unsplash API",
+            "url": "https://jsonplaceholder.typicode.com/"
+        },
+        {
+            "name": "Quotes API",
+            "url": "https://api-ninjas.com/"
+        }
+    ]
+}
