@@ -15,6 +15,10 @@
         {
             "name": "Quotes API",
             "url": "https://api-ninjas.com/"
+        },
+        {
+            "name": "города России",
+            "url": "https://api.hh.ru/areas"
         }
     ]
 }
